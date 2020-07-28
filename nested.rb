@@ -106,7 +106,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-		alans_new_info = ""
+		alans_new_info = " "
 end
 
 def adding_to_dennis
